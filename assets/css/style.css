@@ -124,6 +124,9 @@ html {
     scroll-behavior: smooth;
 }
 
+/* size {
+height:50px; width:50px} */
+
 body {
     font-size: var(--font-size-b1);
     line-height: var(--line-height-b1);
